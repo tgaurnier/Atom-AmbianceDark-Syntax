@@ -312,6 +312,8 @@ atom-text-editor, :host {
 .function.name,
 .function.misc,
 .function.misc ~ .function.punctuation,
+.function.makefile,
+.function.shell,
 .function > .delimiter .methodparens .punctuation,
 .function > .parameters.punctuation.begin,
 .function > .parameters.punctuation.end,
@@ -334,9 +336,8 @@ atom-text-editor, :host {
 
 /**
  * Makefile specific
- *
- * TODO: When language-make properly separates targets from recipes, get this working.
  */
+// TODO: When language-make properly separates targets from recipes, get this working.
 // .target > .target,
 // .target > .target > .string.interpolated > .variable,
 // .target > .recipe,
