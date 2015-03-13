@@ -1,7 +1,7 @@
 {
   "name": "ambiance-dark-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This theme is based off of Ubuntu's Ambiance theme, but darkened.",
   "repository": "https://github.com/tgaurnier/Atom-AmbianceDark-Syntax",
   "license": "MIT",
