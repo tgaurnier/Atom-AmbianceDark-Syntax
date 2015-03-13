@@ -2,6 +2,6 @@
 
 Ambiance Dark Syntax theme for Atom text editor.
 
-This theme is based off of Ubuntu's Ambiance theme, but darkened. 
+This theme is based off of Ubuntu's Ambiance theme, but darkened.
 
-![](Screenshot.png)
+![](https://github.com/tgaurnier/Atom-AmbianceDark-Syntax/blob/master/Screenshot.png?raw=true)
